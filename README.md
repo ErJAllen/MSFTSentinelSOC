@@ -134,7 +134,4 @@ Cost: ~$3 per 8-hour session. ~$0.10/day when stopped.
 Complete documentation with network topology, Kerberos walkthrough, attack-to-detection pipeline, and evidence screenshots:
 
 **[MSFTSentinelSOC - Step-by-step lab report](https://medium.com/p/ba5af6ebb2aa/edit)**
-## License
-
-MIT
 # MSFTSentinelSOC
